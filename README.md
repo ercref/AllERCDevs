@@ -3,14 +3,19 @@ Meeting Repository for AllERCDevs
 
 ## Next and Future Meeting
 
+Please keep the following in chronical order
+
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
 2| Thu, Jun 1, 2023 15:00 UTC      | [agenda](https://github.com/ercref/AllERCDevs/issues/2) \| notes \| reddit \| twitter \| FEM          | video 
 3| Tue, Jun 13, 2023 23:00 UTC      | [agenda](https://github.com/ercref/AllERCDevs/issues/4) \| notes \| reddit \| twitter \| FEM          | video 
+4| Tue, Jun 28, 2023 23:00 UTC      | [agenda](https://github.com/ercref/AllERCDevs/issues/5) \| notes \| reddit \| twitter \| FEM          | video 
 
 
 ## Past Meetings
+
+Please keep the following table in reverse-chronical order
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
