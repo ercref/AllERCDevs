@@ -19,5 +19,5 @@ Please keep the following table in reverse-chronical order
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
-1| Tue, May 16, 2023 23:00 UTC      | [agenda](https://github.com/ercref/AllERCDevs/issues/1) \| notes \| reddit \| [twitter](https://twitter.com/ERCRef/status/1655421733690826752) \| [FEM](https://ethereum-magicians.org/t/thread-for-1st-session-of-allercdevs-meetup-2023-05-16-utc2300/14242)          | [video](https://youtu.be/GNVSOgZ7g_Y) 
+1| Tue, May 16, 2023 23:00 UTC      | [agenda](https://github.com/ercref/AllERCDevs/issues/1) \| notes \| no reddit \| [twitter](https://twitter.com/ERCRef/status/1655421733690826752) \| [FEM](https://ethereum-magicians.org/t/thread-for-1st-session-of-allercdevs-meetup-2023-05-16-utc2300/14242)          | [video](https://youtu.be/GNVSOgZ7g_Y) 
 
