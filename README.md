@@ -1,5 +1,7 @@
 # AllERCDevs
-Meeting Repository for AllERCDevs
+Meeting Repository for AllERCDevs.
+
+Subscribe to [Ethereum Cat Herders' Calendar](https://calendar.google.com/calendar/u/0?cid=bW11cXExdnU0ZjF1ZHZlMDkzYXJ0Y3VpdDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## Next and Future Meeting
 
