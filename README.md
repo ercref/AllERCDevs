@@ -16,7 +16,7 @@ Please keep the following in chronical order
 
  №  | Date                          | Timezone  | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
-2| Thu, Jun 1, 2023 15:00 UTC   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/2) \| notes \| reddit \| [twitter](https://twitter.com/ERCRef/status/1664127679485059072) \| [FEM](https://ethereum-magicians.org/t/call-for-agenda-signup-for-2nd-allercdevs-eu-us-friendly-2023-06-01-utc1500/14436)          | [video](https://youtu.be/hwvAwnJNeII) 
+2| Thu, Jun 1, 2023 15:00 UTC   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/2) \| [notes](https://github.com/ercref/AllERCDevs/issues/2) \| reddit \| [twitter](https://twitter.com/ERCRef/status/1664127679485059072) \| [FEM](https://ethereum-magicians.org/t/call-for-agenda-signup-for-2nd-allercdevs-eu-us-friendly-2023-06-01-utc1500/14436)          | [video](https://youtu.be/hwvAwnJNeII) 
 3| Tue, Jun 13, 2023 23:00 UTC   | Asia / US Friendly   | [agenda](https://github.com/ercref/AllERCDevs/issues/4) \| notes \| reddit \| twitter \| FEM          | video 
 4| Tue, Jun 28, 2023 15:00 UTC   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/5) \| notes \| reddit \| twitter \| FEM          | video 
 
