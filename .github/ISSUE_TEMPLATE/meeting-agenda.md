@@ -9,11 +9,19 @@ assignees: ''
 
 The time of event will be 
 
-- 2023-06-01 UTC 1500-1559 Thursday*, which translates to
+<!-- Remove one of the following -->
+*2023-06-01 UTC 1500-1559 Thursday*, which translates to
  
 - 08:00-08:59 on 2023-06-01 Thursday in US Pacific Time.
 - 11:00-11:59 on 2023-06-01 Thursday in US Eastern Time.
 - 23:00-23:59 on 2023-06-01 Thursday in Singapore.
+
+*2023-05-16 UTC 2300-2359 Tuesday*, which translates to
+ 
+- 19:00-19:59 on 2023-05-16 Tuesday in US Eastern Time.
+- 07:00-07:59 on 2023-05-17 Wednesday in Singapore.
+- 16:00-16:59 on 2023-05-16 Tuesday in US Pacific Time.
+- <!-- End of the time list -->
 
 The event will be hosted on Zoom, a link will be posted on "all-erc-devs" channel on this [Discord Server](https://discord.gg/2arW34S6J7)
 
