@@ -17,7 +17,7 @@ Please keep the following in chronical order
  №  | Date                          | Timezone  | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
 3| Tue, Jun 13, 2023 23:00 UTC   | Asia / US Friendly   | [agenda](https://github.com/ercref/AllERCDevs/issues/4) \| notes \| reddit \| twitter \| FEM          | video 
-4| Tue, Jun 28, 2023 15:00 UTC   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/5) \| notes \| reddit \| twitter \| FEM          | video 
+4| Thursday, Jun 29, 2023 15:00 UTC   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/5) \| notes \| reddit \| twitter \| FEM          | video 
 
 
 ## Past Meetings
