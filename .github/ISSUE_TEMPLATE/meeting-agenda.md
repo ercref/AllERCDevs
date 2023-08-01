@@ -9,9 +9,16 @@ assignees: ''
 
 The time of event will be
 
-<!-- TODO update this time --> 2023-07-27 UTC 1500-1559 Thursday <!-- TODO end of update this --> 
+REMOVE ONE OF THE BELOW
 
-find [your timezone here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=4th+AllERCDevs&iso=20230727T15&p1=1440&ah=1)
+<!-- TODO update this time --> 2023-07-27 UTC 1500-1559 Thursday <!-- TODO end of update this --> 
+find [your timezone here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=6th+AllERCDevs&iso=20230727T15&p1=1440&ah=1)
+
+<!-- TODO update this time --> 2023-08-08 UTC 2300-2359 Tuesday <!-- TODO end of update this --> 
+
+find [your timezone here](https://www.timeanddate.com/worldclock/fixedtime.html?msg=7th+AllERCDevs&iso=20230808T23&p1=1440&ah=1)
+
+
 
 The event will be hosted on Zoom, a link will be posted on "all-erc-devs" channel on this Discord Server
 
