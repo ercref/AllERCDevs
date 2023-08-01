@@ -1,7 +1,7 @@
 ---
 name: Meeting Agenda
 about: Describe this issue template's purpose here.
-title: ''
+title: 'Nth AllERCDevs Agenda'
 labels: ''
 assignees: ''
 
