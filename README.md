@@ -1,6 +1,8 @@
 # AllERCDevs
 Meeting Repository for AllERCDevs.
 
+AllERCDevs is a regular meetup for the ERC Authors, Contributors and dApp developers together to get tech peer feedback and advocate for standardization and adoption. We usually present ERCs (including drafts and final ones), smart contracts, libraries and dApps. We scencerely welcome everyone to join.
+
 Subscribe to [Ethereum Cat Herders' Calendar](https://calendar.google.com/calendar/u/0?cid=bW11cXExdnU0ZjF1ZHZlMDkzYXJ0Y3VpdDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 * Canonical Link: The Draft on [HackMD](https://hackmd.io/@xinbenlv/allercdevs)
