@@ -35,6 +35,14 @@ Passcode: 338406
 ## Agenda
 TODO
 
-## Notes
-### Summary
-### Full Transcription
+## Recordings and Notes
+
+## End of Session Checklist
+- [ ] Send video recording link and notes link to 
+	- [ ] Ethereum Cat Herders (current PoC: Pooja)
+	- [ ] Twitter
+	- [ ] Ethereum Magician
+	- [ ] Discord
+	- [ ] Github Issue for session agenda
+	- [ ] Github Repo Readme for recording link and note link
+- [ ] Create an issue for next meeting
