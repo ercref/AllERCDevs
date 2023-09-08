@@ -18,8 +18,8 @@ Please keep the following in chronical order
 
  №  | Date                          | Timezone  | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
-
-10| [Thursday, Sept 21, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=8th+AllERCDevs&iso=20230921T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/9) \| notes \| reddit \| twitter \| FEM          | video 
+10| [Thursday, Sep 21, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=10th+AllERCDevs&iso=20230921T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/11) \| notes \| reddit \| twitter \| FEM          | video 
+11| [Tuesday, Oct 3, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=11th+AllERCDevs&iso=20231003T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/12) \| notes \| reddit \| twitter \| FEM          | video 
 
 ## Past Meetings
 
