@@ -18,7 +18,8 @@ Please keep the following in chronical order
 
  №  | Date                          | Timezone  | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
-9| [Tuesday, Sept 5, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=9th+AllERCDevs&iso=20230905T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/10) \| notes \| reddit \| twitter \| FEM          | video 
+
+10| [Thursday, Sept 21, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=8th+AllERCDevs&iso=20230921T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/9) \| notes \| reddit \| twitter \| FEM          | video 
 
 ## Past Meetings
 
@@ -26,6 +27,7 @@ Please keep the following table in reverse-chronical order
 
  №  | Date                      |  Timezone      | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
+9| [Tuesday, Sept 5, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=9th+AllERCDevs&iso=20230905T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/10) \| notes \| reddit \| twitter \| FEM          | video 
 8| [Thursday, Aug 24, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=8th+AllERCDevs&iso=20230824T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/9) \| notes \| reddit \| twitter \| FEM          | video 
 7| [Tuesday, Aug 8, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=7th+AllERCDevs&iso=20230808T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/8) \| notes \| reddit \| twitter \| FEM          | video 
 6| [Thursday, Jul 27, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=4th+AllERCDevs&iso=20230727T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/7) \| notes \| reddit \| twitter \| FEM          | video 
