@@ -1,15 +1,20 @@
 # AllERCDevs
+
+[![ERCRef Discord](https://badgen.net/discord/members/XZ7kXc52rD)](https://discord.gg/XZ7kXc52rD)
+
+## Subscribe
+
 Meeting Repository for AllERCDevs.
 
 AllERCDevs is a regular meetup for the ERC Authors, Contributors and dApp developers together to get tech peer feedback and advocate for standardization and adoption. We usually present ERCs (including drafts and final ones), smart contracts, libraries and dApps.
 
-Subscribe to [Ethereum Cat Herders' Calendar](https://calendar.google.com/calendar/u/0?cid=bW11cXExdnU0ZjF1ZHZlMDkzYXJ0Y3VpdDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-* Canonical Link: The Draft on [HackMD](https://hackmd.io/@xinbenlv/allercdevs)
-* Fill in Interest Form: [interest form](https://docs.google.com/forms/d/e/1FAIpQLSePeryTV1tgYrzVzTWfbPoIRv8kSwKlrBW5-ALQcVaH_ZUsQg/viewform) to receive calendar invitation.
-* Discord Channel: https://discord.gg/2arW34S6J7
+- Subscribe to [Ethereum Cat Herders' Calendar](https://calendar.google.com/calendar/u/0?cid=bW11cXExdnU0ZjF1ZHZlMDkzYXJ0Y3VpdDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- Mailing List: https://groups.google.com/g/allercdevs
+- Twitter: https://twitter.com/ERCRef
+- Discord: https://discord.gg/XZ7kXc52rD
+- Interest Form: [interest form](https://docs.google.com/forms/d/e/1FAIpQLSePeryTV1tgYrzVzTWfbPoIRv8kSwKlrBW5-ALQcVaH_ZUsQg/viewform).
 * Ethereum Magicians Forum Tag:  [`allercdevs`](https://ethereum-magicians.org/tag/allercdevs)
-
+* Canonical Link: The Draft on [HackMD](https://hackmd.io/@xinbenlv/allercdevs)
 
 ## Next and Future Meeting
 
@@ -18,8 +23,6 @@ Please keep the following in chronical order
 
  №  | Date                          | Timezone  | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
-10| [Thursday, Sep 21, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=10th+AllERCDevs&iso=20230921T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/11) \| notes \| reddit \| twitter \| FEM          | video 
-11| [Tuesday, Oct 3, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=11th+AllERCDevs&iso=20231003T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/12) \| notes \| reddit \| twitter \| FEM          | video 
 
 ## Past Meetings
 
@@ -27,6 +30,8 @@ Please keep the following table in reverse-chronical order
 
  №  | Date                      |  Timezone      | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
+11| [Tuesday, Oct 3, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=11th+AllERCDevs&iso=20231003T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/12) \| notes \| reddit \| twitter \| FEM          | video 
+10| [Thursday, Sep 21, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=10th+AllERCDevs&iso=20230921T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/11) \| notes \| reddit \| twitter \| FEM          | video 
 9| [Tuesday, Sept 5, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=9th+AllERCDevs&iso=20230905T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/10) \| notes \| reddit \| twitter \| FEM          | video 
 8| [Thursday, Aug 24, 2023 15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=8th+AllERCDevs&iso=20230824T15&p1=1440&ah=1)   | Europe / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/9) \| notes \| reddit \| twitter \| FEM          | video 
 7| [Tuesday, Aug 8, 2023 23:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=7th+AllERCDevs&iso=20230808T23&p1=1440&ah=1)   | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/8) \| notes \| reddit \| twitter \| FEM          | video 
