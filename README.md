@@ -2,7 +2,7 @@
 
 [![ERCRef Discord](https://badgen.net/discord/members/XZ7kXc52rD)](https://discord.gg/XZ7kXc52rD)
 
-## Subscribe
+## How to Join
 
 Meeting Repository for AllERCDevs.
 
@@ -12,8 +12,12 @@ AllERCDevs is a regular meetup for the ERC Authors, Contributors and dApp develo
 - Mailing List: https://groups.google.com/g/allercdevs
 - Twitter: https://twitter.com/ERCRef
 - Discord: https://discord.gg/XZ7kXc52rD
-- Interest Form: [interest form](https://docs.google.com/forms/d/e/1FAIpQLSePeryTV1tgYrzVzTWfbPoIRv8kSwKlrBW5-ALQcVaH_ZUsQg/viewform).
+- Telegram: https://t.me/+j4px1GisBSkzMDZh
+
+## Other Info
+
 * Ethereum Magicians Forum Tag:  [`allercdevs`](https://ethereum-magicians.org/tag/allercdevs)
+- Interest Form: [interest form](https://docs.google.com/forms/d/e/1FAIpQLSePeryTV1tgYrzVzTWfbPoIRv8kSwKlrBW5-ALQcVaH_ZUsQg/viewform).
 * Canonical Link: The Draft on [HackMD](https://hackmd.io/@xinbenlv/allercdevs)
 
 ## Next and Future Meeting
