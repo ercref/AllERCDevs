@@ -24,7 +24,7 @@ AllERCDevs is a regular meetup for the ERC Authors, Contributors and dApp develo
 
  №  | Date                      |  Timezone      | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
-1| 2024-03-21 17:00 UTC | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/17) \| notes \| reddit \| twitter \| FEM          | video 
+1| 2024-03-21 17:00 UTC | EU / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/17) \| notes \| reddit \| twitter \| FEM          | video 
 
 ## Season 2023 Meetings
 
