@@ -20,17 +20,13 @@ AllERCDevs is a regular meetup for the ERC Authors, Contributors and dApp develo
 - Interest Form: [interest form](https://docs.google.com/forms/d/e/1FAIpQLSePeryTV1tgYrzVzTWfbPoIRv8kSwKlrBW5-ALQcVaH_ZUsQg/viewform).
 * Canonical Link: The Draft on [HackMD](https://hackmd.io/@xinbenlv/allercdevs)
 
-## Next and Future Meeting
+## Season 2024 Meetings
 
-Please keep the following in chronical order
-
-
- №  | Date                          | Timezone  | Notes          | Recording            |
+ №  | Date                      |  Timezone      | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
+1| 2024-03-21 17:00 UTC | Asia / US Friendly  | [agenda](https://github.com/ercref/AllERCDevs/issues/17) \| notes \| reddit \| twitter \| FEM          | video 
 
-## Past Meetings
-
-Please keep the following table in reverse-chronical order
+## Season 2023 Meetings
 
  №  | Date                      |  Timezone      | Notes          | Recording            |
 --- | -------------------------------- | --- | -------------- | -------------------- |
