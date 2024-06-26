@@ -79,3 +79,7 @@ As we want to create a space to bring the target participants together, here is 
 2. 30-minute authors of pending ERCs to share their proposal and ask for peer review comments.
 3. 10-minute other discussions.
 4. [optional] 30-minute breakout room social chat.
+
+## Contributor Guide
+### How to create a tweet summary
+Download the raw transcript from AI notes taker (fireflies), upload to the [custom chatGPT](https://chatgpt.com/g/g-HZjQYPbSn-allercdevs-summarizer), then rely on [the wanted reviewer roster sheet](https://docs.google.com/spreadsheets/d/1imyjioszW5nfIVBrbEd0GTTFIHCPmO193KgmCRkAJOM/edit#gid=0) to find their twitter accounts when drafting the summary to publish on twitter
